@@ -123,4 +123,5 @@ This starts the server on localhost (127.0.0.1) and listens on port 8080.
 Feel free to contribute or suggest improvements!
 
 ## Video
-### Video size 300MB, it is uploading......
+### Video size 300MB, it is about 15 minute......
+[Video](https://drive.google.com/file/d/1f92ggW2NYEcefi_yrg7V6ILYou2yiM8q/view?usp=drive_link)
